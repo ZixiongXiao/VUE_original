@@ -1,0 +1,20 @@
+To use echart in javascript: https://echarts.apache.org/examples/en/editor.html?c=line-simple 
+
+i.e. add the following codes to App.vue file
+
+-----------------------------------basic line chart---------------------------------
+option = {
+  xAxis: {
+    type: 'category',
+    data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+  },
+  yAxis: {
+    type: 'value'
+  },
+  series: [
+    {
+      data: [150, 230, 224, 218, 135, 147, 260],
+      type: 'line'
+    }
+  ]
+};
