@@ -7,4 +7,4 @@ Server Campus Management System with Echarts
 
 3. Step by step setup guide: https://vuejs.org/guide/quick-start.html
 
-4. change to project directory and run this command in terminal to use localhost in the web browser: npm run dev
+4. change to project directory and run this command in terminal to use localhost in any web browser: npm run dev
