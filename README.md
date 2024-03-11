@@ -1,10 +1,29 @@
-# VUE_FRONTEND
-Server Campus Management System with Echarts
+# VUE3
 
-1. Environment: MacOS M1 ARM + VScode2 v1.86.1
+This template should help get you started developing with Vue 3 in Vite.
 
-2. Preinstallation: Node.js + node package manager
+## Recommended IDE Setup
 
-3. Step by step setup guide: https://vuejs.org/guide/quick-start.html
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-4. change to project directory and run this command in terminal to use localhost in any web browser: npm run dev
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
